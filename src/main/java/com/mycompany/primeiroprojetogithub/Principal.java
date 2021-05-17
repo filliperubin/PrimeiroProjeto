@@ -12,6 +12,7 @@ package com.mycompany.primeiroprojetogithub;
 public class Principal {
     // Método Principal
     public static void main(String[] args) {
+       // Adicionado mensagens  
          System.out.println("Olá, Mundo!");    
          System.out.println("Olá, Fillipe!");
          System.out.println("Bom dia!");
