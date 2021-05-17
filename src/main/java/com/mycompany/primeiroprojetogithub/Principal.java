@@ -12,6 +12,6 @@ package com.mycompany.primeiroprojetogithub;
 public class Principal {
     // Método Principal
     public static void main(String[] args) {
-        
+         System.out.println("Olá Mundo!");    
     }
 }
